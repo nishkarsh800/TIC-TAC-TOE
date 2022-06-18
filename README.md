@@ -3,6 +3,11 @@
 ![image](https://user-images.githubusercontent.com/94545831/169682812-65b02c76-7064-41ba-8326-d70eacc78013.png)
 
 
+# PROBLEM STATEMENT :
+- The player can give inputs thriugh simple switches and the display can be made on a matrix of LEDs.
+- The game algorithm should be such that cicuit cananot be beaten and in the worst case the game game ends in a draw.
+
+# INFO :
 - A two-player game where players one and two have to fill the grids of 3*3 with X and 0 respectively.
 - The winner would be declared when all the grids are filled.
 - The project operates in offline mode and the player can play as Multiplayer.
